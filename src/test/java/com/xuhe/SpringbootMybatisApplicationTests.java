@@ -21,6 +21,7 @@ class SpringbootMybatisApplicationTests {
         System.out.println("idea使用git");
         System.out.println("hot fix分支");
         System.out.println("push到github");
+        System.out.println("pull回idea");
     }
 
 }
