@@ -18,6 +18,7 @@ class SpringbootMybatisApplicationTests {
         List<Book> byId = bookDao.getById(1);
         System.out.println(byId);
         System.out.println("git测试,学习使用git");
+        System.out.println("idea使用git");
     }
 
 }
