@@ -19,6 +19,7 @@ class SpringbootMybatisApplicationTests {
         System.out.println(byId);
         System.out.println("git测试,学习使用git");
         System.out.println("idea使用git");
+        System.out.println("hot fix分支");
     }
 
 }
